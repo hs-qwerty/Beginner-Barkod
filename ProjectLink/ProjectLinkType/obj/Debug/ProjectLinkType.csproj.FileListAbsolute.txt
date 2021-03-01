@@ -1,0 +1,6 @@
+C:\Users\pc1\Desktop\Project-Link\ProjectLink\ProjectLinkType\bin\Debug\ProjectLinkType.dll
+C:\Users\pc1\Desktop\Project-Link\ProjectLink\ProjectLinkType\bin\Debug\ProjectLinkType.pdb
+C:\Users\pc1\Desktop\Project-Link\ProjectLink\ProjectLinkType\obj\Debug\ProjectLinkType.csprojAssemblyReference.cache
+C:\Users\pc1\Desktop\Project-Link\ProjectLink\ProjectLinkType\obj\Debug\ProjectLinkType.csproj.CoreCompileInputs.cache
+C:\Users\pc1\Desktop\Project-Link\ProjectLink\ProjectLinkType\obj\Debug\ProjectLinkType.dll
+C:\Users\pc1\Desktop\Project-Link\ProjectLink\ProjectLinkType\obj\Debug\ProjectLinkType.pdb
